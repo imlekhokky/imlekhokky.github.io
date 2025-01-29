@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imlekhokky.github.io/sitemap.xml
